@@ -1,0 +1,121 @@
+{
+    "Favorites": [
+        {
+            "id": 1,
+            "name": "Diseño Gráfico",
+            "subtitle": "Duracion 120h",
+            "img": "https://img.freepik.com/vector-gratis/pequeno-disenador-grafico-dibujando-boligrafo-grande-pantalla-computadora-creadores-trabajo-mujer-creativa-que-trabaja-ilustracion-vector-plano-portatil-concepto-diseno-digital-banner-o-pagina-web-destino_74855-25342.jpg?w=1480&t=st=1680187481~exp=1680188081~hmac=7b6e9200e049935b25812eb1c21137da3868420d668f9dca000d5b4d701d4946",
+            "backgroundColor": "#71B8FF",
+            "borderColor": "#62ACF5",
+            "shadowColor": "#91C1F0"
+        },
+        {
+            "id": 2,
+            "name": "Programación en java",
+            "subtitle": "Duracion 160h",
+            "img": "https://img.freepik.com/vector-gratis/programadores-que-utilizan-lenguaje-programacion-javascript-computadora-gente-pequena-lenguaje-javascript-motor-javascript-concepto-desarrollo-web-js-ilustracion-aislada-violeta-vibrante-brillante_335657-986.jpg?w=1800&t=st=1680187371~exp=1680187971~hmac=965ae05e8a1ae6e35b7035851d053e03ddba318c9dee042b642e710b116e022c",
+            "backgroundColor": "#FF6271",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6"
+        },
+        {
+            "id": 3,
+            "name": "Finanzas",
+            "subtitle": "Duracion 96h",
+            "img": "https://img.freepik.com/vector-gratis/empresaria-alegre-junto-al-grafico-flecha-arriba-pila-enormes-monedas-oro-billetes-ilustracion-vectorial-plana-progreso-crecimiento-empresarial-concepto-desarrollo-banner-o-pagina-web-inicio_74855-24031.jpg?w=1800&t=st=1680188502~exp=1680189102~hmac=d35c2822a3f622743e1a473318bd4483c7d3df502c8874c0b19b5fbf9629c9c4",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995"
+        },
+         {
+            "id": 4,
+            "name": "Diseño UX",
+            "subtitle": "Duracion 72h",
+            "img": "https://img.freepik.com/vector-premium/ui-ux-programmer-flat-design-vector-illustration-informacion-empresarial-e-ideas-compartir-equipo-disenador-codificacion-interfaz-o-desarrollo-aplicaciones-software_2175-1852.jpg?w=1800",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD"
+        },
+        {
+            "id": 5,
+            "name": "Marketing",
+            "subtitle": "Duracion 96h",
+            "img": "https://img.freepik.com/vector-gratis/gerentes-publicidad-ppc-trabajan-sitios-web-campana-ppc-modelo-pago-clic-herramientas-marketing-internet-concepto-publicidad-buscadores-ilustracion-aislada-bluevector-coral-rosado_335657-2279.jpg?w=1800&t=st=1680290825~exp=1680291425~hmac=0adfbdccf3c1901cd14f494c0e5d1d379c7c27aca74cb0150ebdbfb611879a4f",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995"
+        },
+        {
+            "id": 6,
+            "name": "Diseño UI",
+            "subtitle": "Duracion 72h",
+            "img": "https://img.freepik.com/vector-gratis/fondo-plano-ui-ux-ilustrado_23-2149048690.jpg?w=1800&t=st=1680291050~exp=1680291650~hmac=dc2cac71537021f7893bcc89422fc52c35bca08d426cd841cf6e0c7c82780ef8",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD"
+        },
+        {
+            "id": 7,
+            "name": "Diseño Industrial",
+            "subtitle": "Duracion 96h",
+            "img": "https://img.freepik.com/vector-gratis/equipo-control-industria-metal-composicion-isometrica-trabajadores-fundicion-3d-ilustracion-vectorial_1284-30582.jpg?w=1380&t=st=1681915691~exp=1681916291~hmac=6d9e3360333fd80c3b6d55920b18772736a4bfc7c54385885461802f4b771107",
+            "backgroundColor": "#71B8FF",
+            "borderColor": "#62ACF5",
+            "shadowColor": "#91C1F0"
+        },
+        {
+            "id": 8,
+            "name": "Diseño web",
+            "subtitle": "Duracion 120h",
+            "img": "https://img.freepik.com/vector-gratis/pagina-inicio-diseno-web-dibujos-animados_52683-70880.jpg?w=2000&t=st=1681915648~exp=1681916248~hmac=b67f15198d6f24d57328c307cb832ecba1462efeb32024c3a6ab971f9c17fc4c",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD"
+        },
+        {
+            "id": 9,
+            "name": "Back-end",
+            "subtitle": "Duracion 96h",
+            "img": "https://img.freepik.com/vector-premium/programador-isometrico-codificando-nuevo-proyecto-habilidades-programacion-desarrollo-web-sitios-web-web-banner-ilustracion-proyecto-equipo-ingenieros-sitio-web-php-html-css-js_589019-3104.jpg?w=1800",
+            "backgroundColor": "#FF6271",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6"
+        },
+        {
+            "id": 10,
+            "name": "Administración de empresas",
+            "subtitle": "Duracion 120h",
+            "img": "https://img.freepik.com/vector-gratis/companeros-trabajo-planeando-haciendo-objetivo_1262-19766.jpg?w=1480&t=st=1681915557~exp=1681916157~hmac=a050f602b4ad45618e0e64cce9f8c1015af007f8a22ce5bd1dd41976343deec8",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995"
+        }
+    ],
+    "DataProfile": [
+        {
+            "id": 1,
+            "label": "Nombre Completo",
+            "description": "Julia Wendell"
+        },
+        {
+            "id": 2,
+            "label": "Email",
+            "description": "julia2004@gmail.com"
+        },
+        {
+            "id": 3,
+            "label": "Contraseña",
+            "description": "********"
+        },
+        {
+            "id": 4,
+            "label": "Fecha de nacimiento",
+            "description": "29/07/2004"
+        },
+        {
+            "id": 5,
+            "label": "Documento de identidad",
+            "description": "1110363448"
+        }
+    ]
+}
